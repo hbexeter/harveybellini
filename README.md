@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @harveybellini
+- 🌱 University of Exeter Student - Comp Sci Msci
+- 📫 hb651@exeter.ac.uk
